@@ -221,20 +221,3 @@ header{
 #stand {
     float: right;
 }
-
-footer{
-    position: fixed;
-    bottom: 0;
-    height: 40px;
-    width: 100%;
-    background-color: black;
-    color: grey;
-}
-
-footer p{
-    padding: 10px 10px 10px 10px;
-}
-
-/*#theBackImg {
-    transform: rotate(90deg);
-}*/
